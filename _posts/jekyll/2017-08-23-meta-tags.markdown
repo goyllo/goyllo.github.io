@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "How to Add Meta Tags in Jekyll Pages?"
+permalink: /jekyll-meta-tags/
+category: Jekyll
+description: Learn How to add any Meta tags like noindex, follow in specific Jekyll pages.
+---
+Here I will guide you how to add any meta tags in your Jekyll website, in this post we will use `noindex` and `follow` Meta tags for tutorial purpose. Let's see what Google said about this Meta tags.
+
+    <meta name="robots" content="noindex, follow">      .......(1)
+
+This X-robots, tell Google to don’t index this page into the search result, but follow my other links on that page, i.e. that page will not allow to index on Google search result, but links on that page are allowed to crawl i.e. PageRank will flow from one link to another.
+
+## Why should you add noindex Meta tags to specific pages? ##
+If you’re using categories or tags in your Jekyll website, and it does not have quality content or thin content, then you should use meta noindex tag on those pages, so that pages will be automatically excluded from search result pages. Google don’t like to index low quality content, and they use Google Panda algorithm which penalize a website for indexing low-quality web pages. So tag and categories are mostly low-quality web pages because it contains mostly duplicate content. But if you write a unique description on every categories or tags page, then you don’t need to use noindex meta tags. Now let’s see how to add that meta tags.
+
+## Steps to add noindex, follow Meta tags in Jekyll. ##
+
+First, add this line in your front matter, `metatags: noindex, follow` like this.
+
+    ---
+    layout: page
+    title: Google
+    permalink: /google/
+    metatags: noindex, follow
+    ---
+
+Now, go to includes folder, and open your head.html file.
+
+Now, add this line anywhere between `<head>` to `</head>` tags.
+
+    {% if page.metatags %} <meta name="robots" content="{{page.metatags}}">{% endif %}
+
+Here, we check if the specific page contains Meta tags or not, if it contains, then above line will be executed. Otherwise, it will ignore by Jekyll and that Meta tags will not add in your heading section. For example, if we did not add that Meta tags in our blog post, then it will be not added in our head section, and our blog post will be an index on Google search result. Hope it's more clear now.
+
+You can even use other [Meta tags](https://support.google.com/webmasters/answer/79812?hl=en "Meta Tags That Google Understand") like noodp, nosnippet, noarchive etc., in your front matter.

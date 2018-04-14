@@ -1,0 +1,17 @@
+# Site settings
+title: Goyllo
+description: > 
+  Goyllo is tech website, where you can find many tutorials on internet and software.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.goyllo.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: none
+
+include: ['_pages']
+
+gems:
+  - jekyll-redirect-from
+  
+  
