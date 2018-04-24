@@ -7,7 +7,7 @@ permalink: /blogging-resources/
 Here is my recommended resources and tools for [blogging](/blogging/). Having proper tools can help you to get things fast and also help you to save a lot of times. Some of tools/sites name you might already know and some of not, but feel free to check out those resources, you’ll definitely find it's helpful for your blog. *Note: All below links will open in new tab.*
 
 <div class="box">
-<h2>For Beginner Bloggers </h2><hr/>
+<h2>For Beginner Bloggers </h2>
 <ol>
 <li><a href="https://wordpress.org" target="_blank">WordPress</a> (Free) - Best Blogging platform for professional.</li>
 <li><a href="/blogspot/" target="_blank">Blogger</a> (Free) - Best Blogging platform if you want simplicity.</li>
@@ -17,7 +17,7 @@ Here is my recommended resources and tools for [blogging](/blogging/). Having pr
 </div>
 
 <div class="box">
-<h2>For Advance Blogger</h2><hr/>
+<h2>For Advance Blogger</h2>
 <ol>
 <li><a href="https://www.mautic.org/" target="_blank">Mautic</a> - Best open source software for email marketing automation. Don’t waste your money on Aweber, MailChimp, convertkit, etc.</li>
 <li><a href="/flikover-review/" target="_blank">Flikover</a> - Best SEO group buy service, which gives you access to all premium tools like Semrush, Ahrefs, Moz, Majestic, etc.</li>
