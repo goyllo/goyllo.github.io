@@ -3,6 +3,8 @@ layout: post
 title:  "PayPal Charge in India with USD to INR Examples"
 permalink: /paypal-charges-in-india/
 description: Know How much PayPal charges Indian Freelancer and Publisher, with USD to INR example.
+redirect_from:
+  - /payments/understand-paypal-charges-in-india/
 ---
 PayPal is top payments option in India, but most of Indian people hate them, because they charge more fees compare to Payoneer. Here I will share one example, how much they charges for a specific amount. Most of times when you asked them like how much Indian rupees you will get if you receive $200 from any company, then they don't reply with exact amount number, so at that time, you can use my example to understand it. Mainly they charges in two ways. 
 
