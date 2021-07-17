@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from: 
+- /github/pages/free-cloudflare-ssl-for-custom-domain/
 title:  "How To Use Free Cloudflare SSL in Github Pages with Custom Domain?"
 permalink: /cloudflare-ssl-for-github-pages/
 description: Step by step tutorial to setup free SSL certificate in your Github Pages with a custom domain, by using Free Cloudflare Universal SSL.
