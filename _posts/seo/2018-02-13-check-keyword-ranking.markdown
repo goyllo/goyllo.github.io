@@ -9,7 +9,7 @@ Google search console is one of the best SEO Tool, which should be used by all b
 
 ## Steps to Check Google Keyword Ranking with Google Search Console Tool. ##
 
-1.	First of go to your search console dashboard, expand Search Traffic menu from the left side, then click on Search Analytics option, like this.  <br/><br/><br/><img class="img-responsive" alt="check keyword rank with google webmaster tools" src="https://cdn.goyllo.com/seo/check-keyword-rank-with-google-webmaster-tools.png" title="check keyword rank with google webmaster tools" /><br/>
+1.	First of go to your search console dashboard, expand Search Traffic menu from the left side, then click on Search Analytics option, like this.  <br/><br/><br/><img class="img-responsive" alt="check keyword rank with google webmaster tools" src="https://cdn.arjunsinh.com/seo/check-keyword-rank-with-google-webmaster-tools.png" title="check keyword rank with google webmaster tools" /><br/>
 
 2.	Now tick on impression and position option. Make sure, by default the queries option is selected.
 
