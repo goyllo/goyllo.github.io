@@ -13,9 +13,9 @@ My self Arjunsinh Chauhan. I completed my Computer Engineering degree from Gujar
 
 I created this site to share my own experience with technology, life, or World. I shared anything that I Know. 
 
-Goyllo is currently running on <a href="/jekyll/beginner/jekyll-vs-wordpress/" target="_blank">Jekyll</a> to generate static pages and hosted on <a href="/jekyll/deploy/google-firebase/" target="_blank">Google Firebase</a>.
+We have changed our domain name from goyllo.com to arjunsinh.com. This site is generated with <a href="/jekyll-vs-wordpress/" target="_blank">Jekyll</a> .
 
 ## Contact ##
-Contact email - arjun(at)goyllo. com
+Contact email - hello(at)arjunsinh(dot)com
 
 
