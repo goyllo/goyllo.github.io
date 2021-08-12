@@ -65,6 +65,6 @@ The links I build is only social media profiles/pages, and I don’t call it I b
 
 Here is SS from my one of the niche website. That niche I found via reverse-engineering, one hint is via CPA offer :p Second thing is I use exact match domain for that keyword. As you can see on below screenshot,  I jump to the second position suddenly from 30th position when the Google sandbox time is over.
 
-<img class="img-responsive" alt="google webmaster tool search analytics average position" src="https://cdn.goyllo.com/seo/google-webmaster-tool-search-analytics-average-position.jpg"/>
+<img class="img-responsive" alt="google webmaster tool search analytics average position" src="https://cdn.arjunsinh.com/seo/google-webmaster-tool-search-analytics-average-position.jpg"/>
 
 So, you don’t need to use any blackhat techniques, finding low competition keywords and ranking on that keywords is art. And one biggest art is to monetize those websites. I don’t use AdSense for my niche website. There are lots of other ways to monetize your sites other than AdSense and affiliate sells(CPS Offer). Most of the company just want right customers information for their business, for example, email ID’s(CPL offers), on which they pay you $7 per valid email confirmation (i.e. Double opt-in CPA offer). And believe me, the organic traffic is high quality traffic than any other media buying strategy. They even bump your payout, if you send them more quality leads. Well, we will talk all about these in a future blog post, stay tune with us.
