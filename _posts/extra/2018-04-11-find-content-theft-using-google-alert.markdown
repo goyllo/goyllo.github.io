@@ -20,7 +20,7 @@ Hope you already know [how to set up a Google Alert](/setup-google-news-alert/).
 
 Here I created one Google alert after I publish my blog post.
 
-<img class="img-responsive" alt="Find Who Copy Your Website Content Using Google Alert" src="https://cdn.goyllo.com/Find Who Copy Your Website Content Using Google Alert.png" title="Find Who Copy Your Website Content Using Google Alert" /><br />
+<img class="img-responsive" alt="Find Who Copy Your Website Content Using Google Alert" src="https://cdn.arjunsinh.com/Find Who Copy Your Website Content Using Google Alert.png" title="Find Who Copy Your Website Content Using Google Alert" /><br />
 
 So, as you know, here I use unique heading in my Google alert, similarly, you can use some of your unique heading or paragraph lines, that you think, copy master will not edit. If your alert is not unique, for example, if you setup alert like this “How to setup WordPress in Hostgator”, then you will get thousand of alert messages in your inbox. **So make sure your alert should be unique and copy master will not try to edit.**
 
