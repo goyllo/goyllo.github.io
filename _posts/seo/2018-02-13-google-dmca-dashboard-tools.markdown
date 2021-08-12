@@ -7,7 +7,7 @@ description: Learn how to Use DMCA Tools from Google Webmaster Tools, to remove 
 ---
 We can use Google DMCA Tool for reporting who copied your art/music/videos/blog/website content without your permission. I have already shared one article for bloggers to [find out content theft using Google Alert]( /find-website-content-theft-using-google-alert/ "Find Out Content Theft Using Google Alert"). You can even use <a href="https://www.google.com/webmasters/tools/external-links" rel="nofollow" target="blank">External Links Tool From Google Webmaster</a> if someone copied your website content and links back to you.
 
-<img class="img-responsive" alt="search results removed by google" src="https://cdn.goyllo.com/seo/search-results-removed-by-google.png" title="search results removed by google" />
+<img class="img-responsive" alt="search results removed by google" src="https://cdn.arjunsinh.com/seo/search-results-removed-by-google.png" title="search results removed by google" />
 
 Here, you can see; someone copied my article in his blogger blog, and after making a DMCA request from Google search console, he deleted my article, and Google removed that result. If someone copies your website content in Google products like Blogger, YouTube, Google sites, etc., then they will get a removal notice in their email inbox directly or may be Google will ban their account like Adsense. Also, Google will notify that user into their Google Webmaster Account. Now let’s submit Google DMCA report. 
 
@@ -15,11 +15,11 @@ Here, you can see; someone copied my article in his blogger blog, and after maki
 
 First off go to <a href="https://www.google.com/webmasters/tools/dmca-dashboard" rel="nofollow" target="_blank">Google DMCA Dashboard</a>, and click on create a new notice.
 
-<img class="img-responsive" alt="google dmca dashboard" src="https://cdn.goyllo.com/seo/google-dmca-dashboard.png" title="google dmca dashboard" />
+<img class="img-responsive" alt="google dmca dashboard" src="https://cdn.arjunsinh.com/seo/google-dmca-dashboard.png" title="google dmca dashboard" />
 
 Now, enter all the details like name, emails etc., and come to copyright work section.
 
-<img class="img-responsive" alt="google dmca notice" src="https://cdn.goyllo.com/seo/google-dmca-notice.png" title="google dmca notice" />
+<img class="img-responsive" alt="google dmca notice" src="https://cdn.arjunsinh.com/seo/google-dmca-notice.png" title="google dmca notice" />
 
 So, as you can see in the above screenshot, you can fill up all the details. You can put your details in simple words, no need to write in professional/lengthy style.
 
