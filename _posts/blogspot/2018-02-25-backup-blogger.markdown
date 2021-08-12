@@ -19,15 +19,15 @@ There is two type of backup option available in blogger blog.
 ## Steps to Backup Your Blogger theme. ##
 
 1.  First off go to your blogger dashboard.
-2.  Then, go to template option, and click on Restore/Backup button.<br/><br/><img class="img-responsive" alt="blogger-template-option-for-backup-and-restore" src="https://cdn.goyllo.com/blogspot/backup-restore-blogger-template.png" title="blogger-template-option-for-backup-and-restore" />
+2.  Then, go to template option, and click on Restore/Backup button.<br/><br/><img class="img-responsive" alt="blogger-template-option-for-backup-and-restore" src="https://cdn.arjunsinh.com/blogspot/backup-restore-blogger-template.png" title="blogger-template-option-for-backup-and-restore" />
 3.  Now, one popup box will open like this, then click on download template/theme option.
-  <br/><br/><img class="img-responsive" alt="download-or-upload-new-blogger-template" src="https://cdn.goyllo.com/blogspot/download-upload-blogger-template.png" title="download-or-upload-new-blogger-template" />
+  <br/><br/><img class="img-responsive" alt="download-or-upload-new-blogger-template" src="https://cdn.arjunsinh.com/blogspot/download-upload-blogger-template.png" title="download-or-upload-new-blogger-template" />
 
 ## Steps to Backup your all blogger blog post and pages. ##
 
 1.  First off go to your blogger dashboard and click on setting option.
 2.  Then, select other option from the left menu.
 3.  Now click on Export blog option.
-  <br/><br/><img class="img-responsive" alt="blogger-export-option" src="https://cdn.goyllo.com/blogspot/blogger-export-settings.png" title="blogger-export-option"/><br />
+  <br/><br/><img class="img-responsive" alt="blogger-export-option" src="https://cdn.arjunsinh.com/blogspot/blogger-export-settings.png" title="blogger-export-option"/><br />
 4.  Now one pop-up box will open like this, then click on download blog option.
-  <br/><br/><img class="img-responsive" alt="download-all-blogger-post-via-export-option" src="https://cdn.goyllo.com/blogspot/download-all-blogger-blog-posts.png" title="download-all-blogger-post-via-export-option" /><br />
+  <br/><br/><img class="img-responsive" alt="download-all-blogger-post-via-export-option" src="https://cdn.arjunsinh.com/blogspot/download-all-blogger-blog-posts.png" title="download-all-blogger-post-via-export-option" /><br />
