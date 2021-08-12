@@ -10,10 +10,10 @@ So here is a little guide to find out your Mac Address on any kind of android de
 
 ## Steps to Find Mac Address on Android Devices ##
 
-1. First of Go to Android setting menu. <br /><br /><img class="img-responsive" alt="android setting menu" src="https://cdn.goyllo.com/android-setting-menu.png"/><br />
-2. Then Go to About Phone option.<br /><br /><img class="img-responsive" alt="about phone setting in android" src="https://cdn.goyllo.com/about-phone-setting-in-android.png"/><br />
-3. Then Go to Status option.<br /><br /><img class="img-responsive" alt="android status" src="https://cdn.goyllo.com/android-status.png"/><br />
-4. Finally, here is your Wi-Fi Mac address.<br /><br /><img class="img-responsive" alt="android wifi mac address" src="https://cdn.goyllo.com/android-wifi-mac-address.png"/><br />
+1. First of Go to Android setting menu. <br /><br /><img class="img-responsive" alt="android setting menu" src="https://cdn.arjunsinh.com/android-setting-menu.png"/><br />
+2. Then Go to About Phone option.<br /><br /><img class="img-responsive" alt="about phone setting in android" src="https://cdn.arjunsinh.com/about-phone-setting-in-android.png"/><br />
+3. Then Go to Status option.<br /><br /><img class="img-responsive" alt="android status" src="https://cdn.arjunsinh.com/android-status.png"/><br />
+4. Finally, here is your Wi-Fi Mac address.<br /><br /><img class="img-responsive" alt="android wifi mac address" src="https://cdn.arjunsinh.com/android-wifi-mac-address.png"/><br />
 
 
 Hope these four simple steps help you to find mac address on your android device.
