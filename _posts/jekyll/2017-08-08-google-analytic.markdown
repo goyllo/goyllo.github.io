@@ -15,13 +15,13 @@ First of get your Javascript codes from <a href="https://www.google.com/analytic
 
 Now open your footer file from `_include` folder, and paste your analytics code just after the `</footer>` tag, and you have done. Refer below screen shot for better understanding.
 
-<img class="img-responsive" alt="" src="https://cdn.goyllo.com/jekyll/adding-google-analytic-code-just-after-closing-footer-tag.png" /><br />
+<img class="img-responsive" alt="" src="https://cdn.arjunsinh.com/jekyll/adding-google-analytic-code-just-after-closing-footer-tag.png" /><br />
 
  
 
 Well, If you didn’t find the footer file (If you find it, then follow above screenshot and you have successfully installed Google analytic code in your Jekyll website, otherwise continue from this), then open any of the file on which you can see`</body>` tag. May be you can find `</body>` tag in your default layout. So open that file, and put your Analytic code just before the `</body>` tag. Refer below screen shot for better understanding.
 
-<img class="img-responsive" alt="" src="https://cdn.goyllo.com/jekyll/adding-google-analytic-code-just-before-closing-body-tag.png" /><br />
+<img class="img-responsive" alt="" src="https://cdn.arjunsinh.com/jekyll/adding-google-analytic-code-just-before-closing-body-tag.png" /><br />
 
 And you have done. Just make sure, you don’t paste it twice, for example, in the footer file, also in your default layout file, because placing code after `</footer>` tag will appear same as above `</body>` tag, got it? Or Feel free to check your source code (For chrome press CTRL+U). Thanks for the reading :)
 
