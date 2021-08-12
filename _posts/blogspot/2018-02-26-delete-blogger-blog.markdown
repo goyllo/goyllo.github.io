@@ -11,7 +11,7 @@ There are some situations comes when you decide to delete your blogger blog perm
 
 1. Sign in to your blogger account and go to your particular blog dashboard.
 
-2. From the left menu, click on setting option, then click on other option. <img class="img-responsive" alt="steps to delete blogger blog" src="https://cdn.goyllo.com/blogspot/steps-to-delete-blogger-blog.png"/>
+2. From the left menu, click on setting option, then click on other option. <img class="img-responsive" alt="steps to delete blogger blog" src="https://cdn.arjunsinh.com/blogspot/steps-to-delete-blogger-blog.png"/>
 
 3. Now on right side, you will see delete blog option, so just click on it.
 
@@ -25,7 +25,7 @@ OK, so your blogger blog will permanently delete automatically after 90 days, bu
 
 1. Make sure you have already deleted your blogger blog, by following above steps.
 
-2. On left side of your blogger dashboard, you will see, your deleted blogs name. So just click on it.<img alt="steps to permanently delete blogger blog" class="img-responsive" src="https://cdn.goyllo.com/blogspot/permanently-delete-blogger-blog.png"/>
+2. On left side of your blogger dashboard, you will see, your deleted blogs name. So just click on it.<img alt="steps to permanently delete blogger blog" class="img-responsive" src="https://cdn.arjunsinh.com/blogspot/permanently-delete-blogger-blog.png"/>
 
 3. Now from the right side panel, you will see the option to “PERMANENTLY DELETE” so just click on it.
 
