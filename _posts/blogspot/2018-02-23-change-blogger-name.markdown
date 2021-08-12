@@ -15,7 +15,7 @@ By mistake, if you created a blogger blog with a different name and then you rea
 
 3. Now click on edit option and enter your new blog name.
 
-<img class="img-responsive" alt="Change your blog Name on blogspot" src="https://cdn.goyllo.com/blogspot/change-blog-name-in-blogger.png"><br />
+<img class="img-responsive" alt="Change your blog Name on blogspot" src="https://cdn.arjunsinh.com/blogspot/change-blog-name-in-blogger.png"><br />
 
 Changing blog name does not affect anything (Like Broken links problem or organic traffic problem) in your blog, it will just change your blog name into template file only. If you’ve changed your blog title recently, then it will take some time to update your new blog name into the search result. It will be done automatically once Googlebot crawls your blog again.
 
