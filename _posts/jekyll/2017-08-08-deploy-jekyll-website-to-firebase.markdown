@@ -36,7 +36,7 @@ OK, now we are ready to use Google Firebase with Jekyll, so just follow below st
 
 [Create a free account on Firebase Console](https://console.firebase.google.com), and click on create new project.
 
-<img class="img-responsive" alt="create new project in Google firebase" src="https://cdn.arjunsinh.com/jekyll/create-new-project-in-Google-firebase.png"/><br />
+<img class="img-responsive" alt="create new project in Google firebase" src="https://cdn.goyllo.com/jekyll/create-new-project-in-Google-firebase.png"/><br />
 
 
 ### Step 2 : Install node js
@@ -71,7 +71,7 @@ Now run, this command
 
 So just like Jekyll generate many of folder (layout, post, include, config etc) for us, firebase will also generate four things, like this.
 
-<img class="img-responsive" alt="firebase init" src="https://cdn.arjunsinh.com/jekyll/firebase-init.png"/><br />
+<img class="img-responsive" alt="firebase init" src="https://cdn.goyllo.com/jekyll/firebase-init.png"/><br />
 
 
 ### Step 5: Generate your Jekyll site
@@ -84,7 +84,7 @@ Now you will see _Site folder again so just go to that folder and copy everythin
 
 Now copy all the data to firebase public folder i.e d:/dev/public. **And don't forgot to replace/delete default index file.**
 
-<img class="img-responsive" alt="copy all files to firebase public folder" src="https://cdn.arjunsinh.com/jekyll/copy-all-files-to-firebase-public-folder.png"/><br />
+<img class="img-responsive" alt="copy all files to firebase public folder" src="https://cdn.goyllo.com/jekyll/copy-all-files-to-firebase-public-folder.png"/><br />
 
 ### Step 6: Check your local site with firebase
 
@@ -94,7 +94,7 @@ So just close anything in your terminal(Press CTRL+C), use cd command to go d:/d
 
     Firebase serve 
 
-<img class="img-responsive" alt="firebase localhost" src="https://cdn.arjunsinh.com/jekyll/firebase-localhost.png"/><br />
+<img class="img-responsive" alt="firebase localhost" src="https://cdn.goyllo.com/jekyll/firebase-localhost.png"/><br />
 
 Now you can see, your site locally though `127.0.0.1:5000` or `localhost:5000` from your browser.
 
@@ -114,17 +114,17 @@ If you’re using cloudflare, then you need to first disconnect your site from c
 
 First, go to your console, click on hosting from right side, and then click on connect custom domain.
 
-<img class="img-responsive" alt="connect custom domain in firebase" src="https://cdn.arjunsinh.com/jekyll/connect-custom-domain-in-firebase.png"/><br />
+<img class="img-responsive" alt="connect custom domain in firebase" src="https://cdn.goyllo.com/jekyll/connect-custom-domain-in-firebase.png"/><br />
 
 So just put your custom domain name, they already write better description about what to put, so just read it, they have written better than me :D
 
-<img class="img-responsive" alt="firebase txt records" src="https://cdn.arjunsinh.com/jekyll/firebase-txt-records.png"/><br />
+<img class="img-responsive" alt="firebase txt records" src="https://cdn.goyllo.com/jekyll/firebase-txt-records.png"/><br />
 
 Now you need to add those TXT records in your domain panel. So just go your domain DNS manager and add those TXT records, you can even write @ in host value instead of your domain name.
 
 Now similarly add CNAME records in your domain control panel.
 
-<img class="img-responsive" alt="Add firebase CNAME Records" src="https://cdn.arjunsinh.com/jekyll/firebase-cname.png"/><br />
+<img class="img-responsive" alt="Add firebase CNAME Records" src="https://cdn.goyllo.com/jekyll/firebase-cname.png"/><br />
 
 Now wait for few minutes, your site will be live soon with free SSL, for me it take only 15 minutes, but it can take up to 24 Hour. So just wait.
 
