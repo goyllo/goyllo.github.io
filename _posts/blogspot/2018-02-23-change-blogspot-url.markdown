@@ -15,7 +15,7 @@ If you did mistake by selecting the wrong username for your blogger blog OR you 
 
 3. Now click on edit option and enter your new blog URL Address.
 
-<img class="img-responsive" alt="Change your blogspot URL address" src="https://cdn.arjunsinh.com/blogspot/change-blogspot-url-address.png"><br />
+<img class="img-responsive" alt="Change your blogspot URL address" src="https://cdn.goyllo.com/blogspot/change-blogspot-url-address.png"><br />
 
 You should note that by changing URL address may cause many problems if you blog is already getting traffics from social media or search engine like Google and Bing. For example, let’s say you have shared your blog post on Facebook and you’re getting daily few clicks from it. Now if you change your blog URL address to something else then that visitors will see 404 Error page, means page not found. Same thing applies if you’re getting traffic from Google or Bing search results.
 
