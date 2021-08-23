@@ -15,7 +15,7 @@ First off go to <a href="https://www.google.com/webmasters/tools/" rel="nofollow
 
 Now, click on Add a Website/Property, and enter your website URL, like this.
 
-<img class="img-responsive" alt="Adding website on Google webmaster tools.png" src="https://cdn.arjunsinh.com/seo/adding-website-on-google-webmaster-tools.png" title="Adding website on Google webmaster tools" /><br />
+<img class="img-responsive" alt="Adding website on Google webmaster tools.png" src="https://cdn.goyllo.com/seo/adding-website-on-google-webmaster-tools.png" title="Adding website on Google webmaster tools" /><br />
 
 
 After adding, you will be redirected to the main dashboard.
@@ -25,7 +25,7 @@ Now, initially your dashboard data is empty, to get results on the dashboard, fi
 
 > ProTip: - You can also add your all website version like this, goyllo.com, www.goyllo.com, https://www.goyllo.com.  But make sure, your one URL should match with the [canonical link tag](/canonical-link-tag/ "canonical link tag").
 
-<img class="img-responsive" alt="Google webmaster tools.png" src="https://cdn.arjunsinh.com/seo/google-webmaster-tools-homepage.png" title="Google webmaster tools" /><br />
+<img class="img-responsive" alt="Google webmaster tools.png" src="https://cdn.goyllo.com/seo/google-webmaster-tools-homepage.png" title="Google webmaster tools" /><br />
 
 Here you can see I submitted three versions of my website. You can even submit your all the subdomain separately. Each URL provides you separate dashboard.
 
