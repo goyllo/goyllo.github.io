@@ -23,7 +23,7 @@ Jekyll (built in ruby) is very popular static website generator among others, be
 First off, you need to install ruby language in your windows operating system, so  <a href="http://rubyinstaller.org/downloads/" rel="nofollow" target="_blank">click here and download ruby setup</a> file (I recommend to download only stable version of ruby, so don’t download the latest version instead download previous version) and install it on your machine. It will be good if you remember the setup path while installation. And please don’t forget to add a proper environment variable while installation.
 
 <figure>
- <img class="img-responsive" alt="Add Ruby Executables Path" src="https://cdn.arjunsinh.com/jekyll/Add-Ruby-Executables-path.png" />
+ <img class="img-responsive" alt="Add Ruby Executables Path" src="https://cdn.goyllo.com/jekyll/Add-Ruby-Executables-path.png" />
   <figcaption>Fig 1. Add Ruby Executables Path</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Now, extract ruby dev kit anywhere you like, I have extracted it on my own folde
 Now, open CMD (Command Prompt) as administrator, and navigate your ruby dev kit folder with cd command, like `cd c:/` then `cd kit` then `cd ruby`
 
 <figure>
- <img class="img-responsive" alt="Setup Ruby Dev Kit For Jekyll" src="https://cdn.arjunsinh.com/jekyll/setup-ruby-dev-kit-for-jekyll.png" />
+ <img class="img-responsive" alt="Setup Ruby Dev Kit For Jekyll" src="https://cdn.goyllo.com/jekyll/setup-ruby-dev-kit-for-jekyll.png" />
   <figcaption>Fig 2. Setup Ruby Dev Kit For Jekyll</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ Now we are ready to create our new Jekyll website.
 Now just choose where you want to create your new website, I will create it, in my own folder, like d:/goyllo/newjekyll . You can either create your own folder (like d:/jekyll/blog) with command line or with graphic user interface.
 
 <figure>
- <img class="img-responsive" alt="Jekyll Installation" src="https://cdn.arjunsinh.com/jekyll/jekyll-installation.png" />
+ <img class="img-responsive" alt="Jekyll Installation" src="https://cdn.goyllo.com/jekyll/jekyll-installation.png" />
   <figcaption>Fig 3. Jekyll Installation</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ Now we are going to execute our last command to see our website live. Refer Fig 
 Now as you can see our site is build in less than half second (0.47 s ), and now we just need to enter `127.0.0.1:4000` in our browser.
 
 <figure>
- <img class="img-responsive" alt="Jekyll Localhost" src="https://cdn.arjunsinh.com/jekyll/Jekyll-localhost.png" />
+ <img class="img-responsive" alt="Jekyll Localhost" src="https://cdn.goyllo.com/jekyll/Jekyll-localhost.png" />
   <figcaption>Fig 4. Jekyll Localhost</figcaption>
 </figure>
 
