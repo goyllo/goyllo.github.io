@@ -12,7 +12,7 @@ PageRank is most underestimated factor in SEO. Some webmaster believes it is dea
 
 In 9th Feb 2017 Gary Illyes tweet this: **Did you know that after 18 years we're still using PageRank (and 100s of other signals) in ranking.**
 
-<a href="https://twitter.com/methode/status/829755916895535104" rel="nofollow" target="_blank"><img class="img-responsive" src="https://cdn.arjunsinh.com/seo/pagerank-is-not-dead-feb-2017.png"/></a>
+<a href="https://twitter.com/methode/status/829755916895535104" rel="nofollow" target="_blank"><img class="img-responsive" src="https://cdn.goyllo.com/seo/pagerank-is-not-dead-feb-2017.png"/></a>
 
 ## So why some SEO people said PageRank is dead. ##
 
