@@ -73,11 +73,11 @@ Wordpress comes with many powerful features, and you can add any functionality y
 
 You can login to your WordPress site very easily just visit this URL `yourdomain.com/wp-admin.php` and enter your username and password that you have to get in your email address. After doing that you will see your WordPress dashboard.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/edit-hello-world-post-in-wordpress.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/edit-hello-world-post-in-wordpress.png"/>
 
 So let’s write your first blog post, to do that go to Post Menu > All Posts > Click on Edit option. Here we are going to Edit the dummy Hello World blog post, OR you can even create a new one, by clicking on `Add New` option.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/write-first-blog-post.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/write-first-blog-post.png"/>
 
 Here I write few basic things in my hello world blog post. But I suggest to write your own hello world blog post in your style, so after few years, when you see the same post, then you’ll feel so great. So don’t delete hello world blog post. Instead, make it great for future reference so that you can know, where did you start blogging. You can also add other website links in your blog post. To do that, click on any text, on which you want to add links, here I have selected how to start a blog text, then click on link option and add any URL address, that’s it. There are so many other options as well, which you can use it in your blog post, like a bullet list, heading, photos, youtube videos, etc. So just play with them. When you are done writing your blog post, you can hit the update/publish button.
 
@@ -85,15 +85,15 @@ Here I write few basic things in my hello world blog post. But I suggest to writ
 
 Installing WordPress themes is very easy, First Go to the Appearance menu, then select theme option. And then click on Add new theme option.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/wordpress-theme-option.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/wordpress-theme-option.png"/>
 
 Now you’ll see lot’s of WordPress theme; you can even add filters based on your interest.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/find-wordpress-theme.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/find-wordpress-theme.png"/>
 
 When you find any good theme, click on Details & Preview to check how it looks like and finally if you like the style of new theme, then click on install button.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/install-theme-in-wordpress.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/install-theme-in-wordpress.png"/>
 
 Once a theme is installed, you'll see the activate option there, so just click on that, and your new theme (Cactus) will apply automatically. 
 
@@ -103,11 +103,11 @@ Most of the themes are free there, and as a beginner, I will say stick with them
 
 This is what I like about Wordpress. **Plugins make life easy for everyone.** Not all peoples know basic of web development like HTML, CSS and Javascript language, so it’s hard to add any code them self, and that’s why plugin comes here. So let’s search one plugin called recent post, which displays latest post in our blog sidebar.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/search-wordpress-plugins.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/search-wordpress-plugins.png"/>
 
 Click install now, then activate it. And now open your blog and you’ll see the recent post widget appears on the right side.
 
-<img class="img-responsive" src="https://cdn.arjunsinh.com/blogging/recent-post-plugin-wordpress.png"/>
+<img class="img-responsive" src="https://cdn.goyllo.com/blogging/recent-post-plugin-wordpress.png"/>
 
 So for everything you’ll get plugins. But you should remember that the more plugins you add, the more resources it will take and slow down your blog. So add plugins that are really necessary for you.
 
