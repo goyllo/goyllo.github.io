@@ -9,7 +9,7 @@ By default, blogger shows the blog title name first, then your post title name i
 
 ## Changing blog post title first before blog name. ##
 
-First off go to template option then click on edit html option.<img class="img-responsive" alt="Blogger Template - Edit HTML" src="https://cdn.arjunsinh.com/blogspot/blogger-template-edit-html.png" title="Blogger Template - Edit HTML" />
+First off go to template option then click on edit html option.<img class="img-responsive" alt="Blogger Template - Edit HTML" src="https://cdn.goyllo.com/blogspot/blogger-template-edit-html.png" title="Blogger Template - Edit HTML" />
 
 Then Find out below code.
 
