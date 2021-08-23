@@ -26,15 +26,15 @@ Now, add your website, and further, they will give you two nameservers, that nam
 
 Now, add/import your all CNAME or other Records in Cloudflare DNS setting and don’t forget to click on status.
 
-<img class="img-responsive" alt="cloudflare DNS setting" src="https://cdn.arjunsinh.com/cloudflare-DNS-setting.png" title="cloudflare DNS setting" />
+<img class="img-responsive" alt="cloudflare DNS setting" src="https://cdn.goyllo.com/cloudflare-DNS-setting.png" title="cloudflare DNS setting" />
 
 Now, go to crypto menu, and set flexible SSL, like this.
 
-<img class="img-responsive" alt="Set Flexible SSL in Cloudflare" src="https://cdn.arjunsinh.com/Set-Flexible-SSL-in-Cloudflare.png" title="Set Flexible SSL in Cloudflare" />
+<img class="img-responsive" alt="Set Flexible SSL in Cloudflare" src="https://cdn.goyllo.com/Set-Flexible-SSL-in-Cloudflare.png" title="Set Flexible SSL in Cloudflare" />
 
 Now, go to Page Rules, and enter your pattern like this, `http://*.goyllo.com/*` and just click on always use https (when you click on always use https then other options will automatically hide) and now click on update.
 
-<img class="img-responsive" alt="Set Page Rules in Cloudflare" src="https://cdn.arjunsinh.com/Set-Page-Rules-in-Cloudflare.png" title="Set Page Rules in Cloudflare" />
+<img class="img-responsive" alt="Set Page Rules in Cloudflare" src="https://cdn.goyllo.com/Set-Page-Rules-in-Cloudflare.png" title="Set Page Rules in Cloudflare" />
 
 Here we set force HTTPS in Page Rules, so whenever any people try to open your site, then it will automatically redirect to https (So no need to use any Javascript). Here I set asterisk sign (*) at subdomain because I am using two subdomains like www(for my main website - www.goyllo.com) and img (To Host Images - img.goyllo.com), so it automatically forces to use HTTPS in my all subdomain. But if you are using only one subdomain like `blog.example.com` then you can use this pattern – `http://blog.example.com/*`.Here we are using * at the end of the URL because it makes https in our all subdirectory or subfolder.
 
